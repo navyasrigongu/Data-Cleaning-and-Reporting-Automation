@@ -1,0 +1,12 @@
+Order ID,Customer Name,Product,Category,Quantity,Price,Sales Date
+1001,Aarav Sharma,Laptop,Electronics,2.0,55000.0,2025-01-05
+1002,Priya Reddy,Headphones,electronics,1.0,2500.0,2025-01-12
+1003,Rohan Kumar,Office Chair,Furniture,1.0,,2025-02-03
+1004,Sneha Patel,Mouse,ELECTRONICS,3.0,800.0,2025-02-10
+1005,Vikram Singh,Desk,Furniture,1.0,12000.0,2025-03-01
+1006,Ananya Das,Monitor,Electronics,1.0,15000.0,2025-03-15
+1007,Kiran Rao,Notebook,Stationery,,50.0,2025-04-02
+1008,Meera Nair,Printer,Electronics,1.0,9000.0,2025-04-18
+1009,Arjun Gupta,Pen,stationery,20.0,20.0,2025-05-06
+1010,Divya Verma,Keyboard,Electronics,2.0,1200.0,2025-05-21
+1002,Priya Reddy,Headphones,electronics,1.0,2500.0,2025-01-12
